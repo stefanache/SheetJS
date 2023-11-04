@@ -7,12 +7,13 @@
     <div data-server-rendered="true" id="__nuxt"><!----><div id="__layout"><div><div class="js-excel-lib-demo"><h1><a href="/demo/sheetjs-xlsx-js/">SheetJS JS-XLSX example in Web Browser</a></h1> <!----> <div class="ADBox"><ins data-ad-client="ca-pub-2383982253924090" data-ad-slot="2858688471" data-ad-format="auto" data-full-width-responsive="true" class="adsbygoogle" style="display:block"></ins> <script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></div> <h2>xlsx.js example</h2> <div>
       Version: v0.14.3
     </div>
-      <p>Download from Github this file <a href="https://github.com/stefanache/SheetJS/blob/main/test1.xlsx">test1.xlsx</a> and then choiche it from "downloads" directory!</p>
+     
       <div>
       Github: <a href="https://github.com/SheetJS/js-xlsx">https://github.com/SheetJS/js-xlsx</a></div> <div>
       NPM: <a href="https://www.npmjs.com/package/xlsx">https://www.npmjs.com/package/xlsx</a></div> <div>
       CDN: <a href="https://cdn.jsdelivr.net/npm/xlsx@0.14.3/dist/xlsx.full.min.js">https://cdn.jsdelivr.net/npm/xlsx@0.14.3/dist/xlsx.full.min.js</a></div> <script src="https://cdn.jsdelivr.net/npm/xlsx@0.14.3/dist/xlsx.full.min.js"></script> <script>function parseExcelFile1(e){var r=e.files||[];if(r.length){var a=r[0];console.time();var l=new FileReader;l.onloadend=function(e){var r=l.result,a=XLSX.read(r,{type:"array"});console.timeEnd();var t=a.SheetNames,n=a.Sheets[t];result1.innerHTML=XLSX.utils.sheet_to_html(n)},l.readAsArrayBuffer(a)}}</script> <h4>Test Online SheetJS xlsx.js</h4> <input type="file" onchange="parseExcelFile1(this)"> <div>
-      Select an Excel file and you will see the content:
+      Select an Excel file<sup>(*)</sup> and you will see the content:
+         <p>(<sup>(*)</supRemark: Download from Github this file <a href="https://github.com/stefanache/SheetJS/blob/main/test1.xlsx">test1.xlsx</a> and then choiche it from "downloads" directory!)</p>
       <div id="result1"></div></div> <h4>Usage:</h4> <pre>// &lt;input type="file" onchange="parseExcelFile1(this)">
 function parseExcelFile1(inputElement) {
   var files = inputElement.files || [];
