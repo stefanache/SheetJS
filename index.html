@@ -13,7 +13,7 @@
       NPM: <a href="https://www.npmjs.com/package/xlsx">https://www.npmjs.com/package/xlsx</a></div> <div>
       CDN: <a href="https://cdn.jsdelivr.net/npm/xlsx@0.14.3/dist/xlsx.full.min.js">https://cdn.jsdelivr.net/npm/xlsx@0.14.3/dist/xlsx.full.min.js</a></div> <script src="https://cdn.jsdelivr.net/npm/xlsx@0.14.3/dist/xlsx.full.min.js"></script> <script>function parseExcelFile1(e){var r=e.files||[];if(r.length){var a=r[0];console.time();var l=new FileReader;l.onloadend=function(e){var r=l.result,a=XLSX.read(r,{type:"array"});console.timeEnd();var t=a.SheetNames,n=a.Sheets[t];result1.innerHTML=XLSX.utils.sheet_to_html(n)},l.readAsArrayBuffer(a)}}</script> <h4>Test Online SheetJS xlsx.js</h4> <input type="file" onchange="parseExcelFile1(this)"> <div>
       Select an Excel file<sup>(*)</sup> and you will see the content:
-         <p><sup>(*)</sup> Remark: Download from Github this file <a href="https://stefanache.github.io/SheetJS/test1.xlsx">test1.xlsx</a> and then choice it from "downloads" directory!</p>
+         <p><sup>(*)</sup> Remark: Download from Github this file <a href="https://github.com/stefanache/SheetJS/blob/main/test1.xlsx">test1.xlsx</a> and then choice it from "downloads" directory!</p>
       <div id="result1"></div></div> <h4>Usage:</h4> <pre>// &lt;input type="file" onchange="parseExcelFile1(this)">
 function parseExcelFile1(inputElement) {
   var files = inputElement.files || [];
