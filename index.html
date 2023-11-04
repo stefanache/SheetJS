@@ -31,10 +31,10 @@
 								console.time();
 								var l=new FileReader;
 								l.onloadend=function(e){
-										var r=l.result,a=XLSX.read(r,{type:"array"});
-										console.timeEnd();
-										var t=a.SheetNames,n=a.Sheets[t];
-										result1.innerHTML=XLSX.utils.sheet_to_html(n)
+												var r=l.result,a=XLSX.read(r,{type:"array"});
+												console.timeEnd();
+												var t=a.SheetNames,n=a.Sheets[t];
+												result1.innerHTML=XLSX.utils.sheet_to_html(n)
 								            },
 								l.readAsArrayBuffer(a)
 							}
