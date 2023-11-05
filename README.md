@@ -9,4 +9,13 @@ then when run this website(see below) you can upload this file dowloaded in the 
 For accesing website from github use that URL:
   https://stefanache.github.io/SheetJS/
 
-  
+The static website can be free hosted on github.
+In github the scenery can be that:
+1) Create one new repository for your project
+2) Upload this kind of website content(like files from this project SheetJS)
+3) Publish/Deploy this repository(settings->Pages....)
+   
+The currently website's exploitation will be.
+a) Localyon your PC, prepare the data file(like test1.xlsx )
+b) Upload it in github in your static website
+c) Open the website in your Browser
