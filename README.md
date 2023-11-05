@@ -1,9 +1,10 @@
 # SheetJS
 <a href="https://stefanache.github.io/SheetJS/">Description:</a>
 
-This is my implement/deploy/installment for that <a title="Thanks a lot for this product"  href="https://jstool.gitlab.io/demo/sheetjs-xlsx-js/">SheetJS-example</a> in <br/>
+This is my implement/deploy/installment for that <a title="Thanks a lot for this product"  href="https://jstool.gitlab.io/demo/sheetjs-xlsx-js/">SheetJS-example</a><br/>
+The project can be processed in 
 - windows 10 Pro-build 19045(see <a href="https://github.com/stefanache/SheetJS/blob/main/test1.bat">test1.bat</a> <br/>need to have PhP already installed and placed in System Path to can be easy searched)...<br/>
-- and, in Github as free repository.<br/> 
+- and/or, in Github as free repository.<br/> 
  For accesing this website from github use that URL:   https://stefanache.github.io/SheetJS/<br/>
 <br/><i>Remark:</i>
  for this project, as example input sheet file([ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx)), you can download it from this repository into <br/>
