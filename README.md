@@ -26,4 +26,6 @@ a) Localy, on your PC, prepare the input data sheet file(like test1.xlsx )<br/>
    
 b) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in your Browser and <br/>
    upload the above(point a) locally inputdata file, by pressing "Choose File"-button<br/>
-   The effect will be that you can see the tabellar data under this button. Enjoy!
+   The effect will be that you can see the tabellar data under this button. Enjoy!<br/>
+   
+If your choice is to work locally then need only run(by clicking it)this test1.bat file!
