@@ -8,7 +8,7 @@ This is an/my implement for that <a title="Thanks a lot for this product"  href=
 <br/><i>Remark:</i>
 as input file for this project can download from this repository[ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx) , 
 then ...
-<br/>when run this <a href="https://stefanache.github.io/SheetJS/">website</a> you will can upload this file dowloaded in the past(by pressing "Choose file"-button).
+<br/>when run this <a href="https://stefanache.github.io/SheetJS/">website</a> you will can to upload this file dowloaded previously(by pressing "Choose file"-button).
 
 <a href="https://stefanache.github.io/SheetJS/">Conclusion:</a>
 
