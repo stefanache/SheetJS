@@ -25,4 +25,4 @@ a) Localy, on your PC, prepare the input data file(like test1.xlsx )<br/>
    Optionally, you can manually upload it on github in your static website(cum ar fi  stefanache/SheetJS) to your remeber!
    
 b) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in your Browser and <br/>
-   upload the above(point ,) locally input/data file by pressing "Choose File"-button
+   upload the above(point a) locally inputdata file, by pressing "Choose File"-button
