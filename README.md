@@ -6,7 +6,7 @@ This is an/my implement for that <a title="Thanks a lot for this product"  href=
 -in Github as free repository.<br/> 
  For accesing this website from github use that URL:   https://stefanache.github.io/SheetJS/<br/>
 <br/><i>Remark:</i>
-as input file for this project can download from this repository[ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx) , 
+as input file for this project can download from this repository[ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx) into your PC in "downloads"-directory, 
 then ...
 <br/>when run this <a href="https://stefanache.github.io/SheetJS/">website</a> you will can to upload this file dowloaded previously(by pressing "Choose file"-button).
 
