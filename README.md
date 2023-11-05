@@ -4,13 +4,11 @@
 This is an/my implement for that <a title="Thanks a lot for this product"  href="https://jstool.gitlab.io/demo/sheetjs-xlsx-js/">SheetJS-example</a> in <br/>
 -windows 10 Probuild 19045(see test1.bat ) and ...<br/>
 -in Github as free repository.<br/> 
+ For accesing website from github use that URL:   https://stefanache.github.io/SheetJS/<br/>
 <br/><i>Remark:</i>
 as input file for this project can download from this repository[ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx) , 
 then ...
 <br/>when run this website(see below) you can upload this file dowloaded in the past.
-
-For accesing website from github use that URL:
-  https://stefanache.github.io/SheetJS/
 
 <a href="https://stefanache.github.io/SheetJS/">Conclusion:</a>
 
