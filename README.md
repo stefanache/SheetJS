@@ -19,7 +19,7 @@ Remotely, in github the scenery can be that:
 3) Publish/Deploy this repository(settings->Pages....)
 
    
-The website's, in recurrently exploitation will follow the following steps:
+The website's, in recurrently exploitation will need the following steps:
 
 a) Localy, on your PC, prepare the input data file(like test1.xlsx )<br/>
    Optionally, you can manually upload it on github in your static website(cum ar fi  stefanache/SheetJS) to remeber it
