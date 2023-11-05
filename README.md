@@ -29,5 +29,5 @@ b) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in 
    upload the above(point a) locally input data file, by pressing "Choose File"-button<br/>
    The effect will be that you can see the tabellar data under this button. Enjoy!<br/>
    
-<u>Note:</u> If your choice is to work locally,after point (a) then need only run(by clicking it)this test1.bat file.<br/>
+Note: If your choice is to work locally,after point (a) then need only run(by clicking it)this test1.bat file.<br/>
 Automatically the site will be accessing into your Chrome Browser(automatic point b)!
