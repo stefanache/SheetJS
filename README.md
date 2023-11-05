@@ -22,5 +22,5 @@ In github the scenery can be that:
 The currently website's exploitation will follow the following steps:
 
 a) Localyon your PC, prepare the data file(like test1.xlsx )<br/>
-b) Upload it in github in your static website<br/>
-c) Open the website in your Browser
+b) Upload it in github in your static website(cum ar fi  stefanache/SheetJS)<br/>
+c) Open the <a href="https://stefanache.github.io/SheetJS/">website</a> in your Browser
