@@ -6,7 +6,7 @@ This is an/my implement for that <a title="Thanks a lot for this product"  href=
 - and, in Github as free repository.<br/> 
  For accesing this website from github use that URL:   https://stefanache.github.io/SheetJS/<br/>
 <br/><i>Remark:</i>
-as input file for this project can download from this repository[ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx) into <br/>
+as example input sheet file for this project can download from this repository[ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx) into <br/>
 your PC in "downloads"-directory, then ...<br/>
 when run this <a href="https://stefanache.github.io/SheetJS/">website</a> you will can to upload this file dowloaded previously(by pressing "Choose file"-button).
 
@@ -22,7 +22,7 @@ Remotely, in github the scenery can be that:
 The website's, in recurrently exploitation will need the following steps:
 
 a) Localy, on your PC, prepare the input data sheet file(like test1.xlsx )<br/>
-   Optionally, you can manually upload it on github in your static website(cum ar fi  stefanache/SheetJS/test1.xlsx) to your remeber!
+   Optionally, you can manually upload it on github in your static website(cum ar fi  stefanache/SheetJS/test1.xlsx)...to your remeber only!
    
 b) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in your Browser and <br/>
    upload the above(point a) locally inputdata file, by pressing "Choose File"-button<br/>
