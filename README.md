@@ -30,4 +30,4 @@ b) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in 
    The effect will be that you can see the tabellar data under this button. Enjoy!<br/>
    
 Note: If your choice is to work locally,after point (a) then need only run(by clicking it)this test1.bat file.<br/>
-Automatically the site will be accessing into your Chrome Browser(automatic point b)!
+Automatically the site will be accessing(automatic point b) into your Chrome Browser!
