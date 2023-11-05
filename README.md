@@ -23,4 +23,4 @@ The currently website's exploitation will follow the following steps:
 
 a) Localy, on your PC, prepare the data file(like test1.xlsx )<br/>
 b) Upload it on github in your static website(cum ar fi  stefanache/SheetJS)<br/>
-c) Open the <a href="https://stefanache.github.io/SheetJS/">website</a> in your Browser
+c) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in your Browser
