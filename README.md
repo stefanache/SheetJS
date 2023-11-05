@@ -2,7 +2,7 @@
 <a href="https://stefanache.github.io/SheetJS/">Description:</a>
 
 This is an/my implement for that <a title="Thanks a lot for this product"  href="https://jstool.gitlab.io/demo/sheetjs-xlsx-js/">SheetJS-example</a> in <br/>
--windows 10 Probuild 19045(see test1.bat ) and ...<br/>
+-windows 10 Pro-build 19045(see test1.bat ) and ...<br/>
 -in Github as free repository.<br/> 
  For accesing website from github use that URL:   https://stefanache.github.io/SheetJS/<br/>
 <br/><i>Remark:</i>
