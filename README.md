@@ -35,7 +35,6 @@ Automatically the site will be accessing(automatic point b) into your Chrome Bro
 You can see/understood more info about this project using AI-tool(chatGPT-like but for developpers):
 <a href="https://app.getonboardai.com/chat/stefanache/SheetJS">getOnBoardAI applyed for this ghithub repository</a>
 
-<a href="https://stefanache.github.io/SheetJS/"><i>Remark:</i></a>
+<a href="https://stefanache.github.io/SheetJS/"><i>Remark ----- The most important question in your request can be: </i></a>
 
-       The most important question in your request can be:
        'What is the purpose of the test1.bat file in the SheetJS project?'
