@@ -44,4 +44,4 @@ or,
        'What is the purpose of the index.html file in the SheetJS project?'
 
 
-The getOnBoardAI's chat link for this site is: <a href="https://app.getonboardai.com/share/e689d193-3688-419b-a578-8e5a424c4d0a">that(you can try it!)</a>
+The getOnBoardAI's chat link for this site is: <a href="https://app.getonboardai.com/share/e3f64a2e-465c-407b-b573-b0fe2d14df67">that(you can try it!)</a>
