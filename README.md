@@ -31,3 +31,6 @@ b) Open the your <a href="https://stefanache.github.io/SheetJS/">website</a> in 
    
 Note: If your choice is to work locally,after point (a) then need only run(by clicking it)this test1.bat file.<br/>
 Automatically the site will be accessing(automatic point b) into your Chrome Browser!
+
+You can see/understood more info about this project using AI-tool(chatGPT-like but for developpers):
+<a href="https://app.getonboardai.com/chat/stefanache/SheetJS">getOnBoardAI applyed for this ghithub repository</a>
