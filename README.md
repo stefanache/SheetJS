@@ -8,7 +8,7 @@ The project can be processed in
  For accesing this website from github use that URL:   https://stefanache.github.io/SheetJS/<br/>
 <br/><i>Remark:</i>
  for this project, as example input sheet file([ test1.xlsx](https://github.com/stefanache/SheetJS/blob/main/test1.xlsx)), you can download it from this repository into <br/>
-your PC in "downloads"-directory, so... then ...<br/>
+your PC in "downloads"-directory, and... then ...<br/>
 when run this <a href="https://stefanache.github.io/SheetJS/">website</a> you will can to upload the file dowloaded previously(by pressing "Choose file"-button).
 
 <a href="https://stefanache.github.io/SheetJS/">Conclusion:</a>
