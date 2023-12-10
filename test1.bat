@@ -14,7 +14,7 @@ php -S localhost:9090 |more
 echo press ENTER to exit from /stop the locally PhP's webserver 
 pause
 
-echo Note: you can use index.html directly from ghithub ...
+echo Note: you can use/call the index-page directly from ghithub ...
 start Chrome https://stefanache.github.io/SheetJS/index.html
 pause
 
