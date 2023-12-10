@@ -1,5 +1,8 @@
 @echo off
 cls
+echo check to see if hve php installed on your computer...
+where php
+php -V
 
 echo starting the Cjrome browser...
 start Chrome http://localhost:9090/index.html
