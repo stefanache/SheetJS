@@ -11,3 +11,5 @@ echo Note: you can use index.html directly from ghithub ...
 start Chrome https://stefanache.github.io/SheetJS/index.html
 pause
 cls
+Thanks for use ... and Bye!
+pause
