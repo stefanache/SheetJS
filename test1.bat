@@ -8,5 +8,5 @@ php -S localhost:9090 |more
 echo press ENTER to exit/stop the webserver 
 pause
 echo Note: you can use index.html directly from...
-start Chrome 
+start Chrome https://stefanache.github.io/SheetJS/index.html
 pause
