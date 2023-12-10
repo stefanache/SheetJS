@@ -20,5 +20,6 @@ echo but the file upload from locally computer's device/disk!
 pause
 
 cls
+...and finally...
 Thanks for use ... and Bye!
 pause
